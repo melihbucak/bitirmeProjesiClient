@@ -1,0 +1,17 @@
+.col-md-3.center.login {
+    display: flex;
+    width: 100%;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+}
+img.esogu-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+}

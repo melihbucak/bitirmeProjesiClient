@@ -1,0 +1,15 @@
+form {
+    background: #55acf3;
+    padding: 1.5em;
+    border-radius: 1em;
+}
+.form-center {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,11 @@
+form.adminForm {
+    background: darkturquoise;
+}
+.toast-body {
+    color: white;
+}
+.headers{
+    float:right;
+    padding-right: 5px;
+    display: grid;
+}
