@@ -1,0 +1,25 @@
+body{
+    font-family: Calibri;
+}
+.headers{
+    float:right;
+    padding-right: 5px;
+    display: grid;
+}
+.ogrenci-listesi table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ogrenci-listesi th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.ogrenci-listesi tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.ogrenci-listesi tr:nth-child(even) {
+    background-color: #d4d4d4;
+}
